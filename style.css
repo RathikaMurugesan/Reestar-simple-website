@@ -1,0 +1,69 @@
+.container{
+    margin: 20px;
+}
+body{
+    font-family:"poppins", sans-serif;
+}
+
+.section-title{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.receipe__img{
+    height: 200px;
+    width: 200px;
+}
+.receipe-container{
+    text-align: center;
+    background-color: burlywood;
+    padding: 20PX;
+
+}
+.receipe{
+    background-color: rgb(135, 83, 6);
+    height: auto;
+    width: 300px;
+    border: solid black 2px;
+    padding: 20px;
+    border-radius: 50px;
+    margin: 50px;
+    display: inline-block;
+    vertical-align: bottom;
+    
+}
+.receipe__button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+}
+.container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2px;
+}
+.contact form h2{
+    text-align: center;
+}
+
+.container-form table{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.contact-form__input{
+    padding: 6px;
+
+}
+.contact-form__Save{
+    background-color: yellowgreen;
+    color: black;
+    padding: 10px;
+    border: none;
+    width: 180px;
+}
